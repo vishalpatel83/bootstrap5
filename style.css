@@ -1,6 +1,6 @@
-/* .container,.container-fluid{
-    border: 5px solid red;;
-} */
+.container,.container-fluid{
+    border: 1px solid black;;
+}
 
 
 
@@ -19,4 +19,8 @@
 }
 .box-4{
     background-color: plum;
+    min-height: 200px;
+}
+.row{
+    border: 2px solid green;
 }
